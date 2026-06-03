@@ -8,4 +8,8 @@
     <UserSecretsId>e4e19af9-e119-472a-942e-27c70e3937d8</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AspireIntro.Blog\AspireIntro.Blog.csproj" />
+  </ItemGroup>
+
 </Project>

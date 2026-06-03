@@ -1,0 +1,6 @@
+@AspireIntro.Blog_HostAddress = http://localhost:5113
+
+GET {{AspireIntro.Blog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
